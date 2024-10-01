@@ -1,6 +1,6 @@
 # Fly Wordpress
 
-Use this template for launching wordpress on fly.io
+Use this template to launching wordpress on fly.io
 
 ## Get Started
 
